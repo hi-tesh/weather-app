@@ -2,8 +2,8 @@
     <b>
         <a href="https://github.com/hi-tesh/weather-app">Weather app</a><br>
     </b>
-   
 
+</h1>
 <p align="center">
  A simple Weather app that shows
 * current weather
